@@ -1,7 +1,7 @@
 comandos para rodar front end-
-npm i 
-npm run build
+1- npm i 
+2- npm run build
 
 back end-
-npm i 
-node index.js
+1- npm i 
+2- node index.js
